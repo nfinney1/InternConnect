@@ -1,5 +1,5 @@
 # InternConnect  
-AI-Powered Internship Matching Platform
+AI-Powered Internship Matching Platform,
 
 ## Overview  
 InternConnect is an AI-driven web application that helps students and early-career professionals find internships that align with their skills, interests, and career goals. The platform leverages machine learning to match users with the best opportunities based on their resumes, coursework, and preferences. In addition, it offers resume feedback, interview prep tools, and a built-in application tracker all in one place.
